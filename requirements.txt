@@ -9,7 +9,7 @@ babel==2.6.0
 backcall==0.1.0
 bcrypt==3.1.6
 billiard==3.5.0.5
-bleach==3.1.0
+bleach==3.3.0
 cachetools==3.1.0
 celery>=4.1.1
 certifi==2024.7.4
