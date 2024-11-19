@@ -19,7 +19,7 @@ click==7.0
 colorama==0.4.1
 configparser==3.5.3
 croniter==0.3.30
-cryptography==3.2
+cryptography==43.0.1
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
