@@ -1,7 +1,7 @@
 alembic==0.9.10
 amqp==2.4.2
 ansiwrap==0.8.4
-apache-airflow[celery,kubernetes,mysql,password,slack]==2.1.2
+apache-airflow[celery,kubernetes,mysql,password,slack]>=2.7.0
 appnope==0.1.0 ; sys_platform == 'darwin'
 asn1crypto==0.24.0
 attrs==19.1.0
@@ -11,7 +11,7 @@ bcrypt==3.1.6
 billiard==3.5.0.5
 bleach==3.1.0
 cachetools==3.1.0
-celery==4.1.1
+celery>=4.1.1
 certifi==2019.3.9
 cffi==1.12.3
 chardet==3.0.4
