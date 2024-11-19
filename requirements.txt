@@ -58,7 +58,7 @@ json-merge-patch==0.2
 jsonschema==4.18.0
 jupyter-client==7.0.0
 jupyter-console==6.6.3
-jupyter-core==4.11.2
+jupyter-core==4.12
 jupyter==1.0.0
 jupyterlab-server==0.2.0
 jupyterlab==3.6.8
