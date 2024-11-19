@@ -41,7 +41,7 @@ flower==0.9.3
 funcsigs==1.0.0
 future==0.16.0
 gitdb2==2.0.5
-gitpython==2.1.11
+gitpython==3.1.41
 google-auth==1.6.3
 gunicorn==19.9.0
 hypothesis==4.18.0
