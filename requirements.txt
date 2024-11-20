@@ -129,7 +129,7 @@ jsonschema-specifications==2024.10.1
 jupyter==1.0.0
 jupyter-console==6.6.3
 jupyter-events==0.10.0
-jupyter-server==1.24.0
+jupyter-server==2.11.2
 jupyter-ydoc==0.2.5
 jupyter_client==7.4.4
 jupyter_core==4.12.0
