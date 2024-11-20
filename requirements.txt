@@ -1,7 +1,7 @@
 alembic==1.14.0
 amqp==5.1.1
 ansiwrap==0.8.4
-apache-airflow[celery,kubernetes,mysql,password,slack]==2.10.1
+apache-airflow[celery,kubernetes,mysql,password,slack]==2.10.3
 appnope==0.1.0 ; sys_platform == 'darwin'
 asn1crypto==0.24.0
 attrs==22.2.0
