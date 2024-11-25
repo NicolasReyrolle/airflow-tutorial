@@ -131,7 +131,7 @@ jupyter-console==6.6.3
 jupyter-events==0.10.0
 jupyter-server==2.11.2
 jupyter-ydoc==0.2.5
-jupyter_client==7.4.4
+jupyter_client==8.6.3
 jupyter_core==4.12.0
 jupyter_server_fileid==0.9.3
 jupyter_server_ydoc==0.8.0
