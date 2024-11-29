@@ -232,7 +232,7 @@ pywin32==308; platform_system == "Windows"
 pywinpty==2.0.14; platform_system == "Windows"
 PyYAML==6.0.2
 pyzmq==26.2.0
-qtconsole==4.4.3
+qtconsole==5.6.1
 redis==5.2.0
 referencing==0.35.1
 requests==2.32.2
