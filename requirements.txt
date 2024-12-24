@@ -74,7 +74,7 @@ entrypoints==0.3
 executing==2.1.0
 fastjsonschema==2.20.0
 flake8==7.1.1
-Flask==2.2.5
+Flask==3.1.0
 Flask-Admin==1.5.3
 Flask-AppBuilder==4.5.2
 Flask-Babel==1.0.0
