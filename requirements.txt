@@ -296,7 +296,7 @@ wirerope==0.4.8
 wrapt==1.16.0
 WTForms==2.2.1
 y-py==0.6.2
-yarl==1.17.2
+yarl==1.18.3
 ypy-websocket==0.12.4
 zipp==3.21.0
 zope.deprecation==5.0
