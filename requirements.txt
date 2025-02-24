@@ -297,7 +297,7 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==2.2.2
 widgetsnbextension==4.0.13
-wirerope==0.4.8
+wirerope==1.0.0
 wrapt==1.16.0
 WTForms==2.2.1
 y-py==0.6.2
