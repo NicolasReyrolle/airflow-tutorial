@@ -281,7 +281,7 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.13.0
 tweepy==3.7.0
-types-python-dateutil==2.9.0.20241003
+types-python-dateutil==2.9.0.20241206
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==1.5.1
