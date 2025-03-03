@@ -217,7 +217,7 @@ pycparser==2.19
 pycrdt==0.10.9
 pycrdt-websocket==0.15.3
 pyflakes==3.2.0
-Pygments==2.15.0
+Pygments==2.19.1
 PyJWT==2.10.1
 pyparsing==2.4.0
 pyrsistent==0.15.1
