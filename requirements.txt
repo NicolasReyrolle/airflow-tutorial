@@ -217,7 +217,7 @@ pickleshare==0.7.5
 pillow==11.0.0
 pluggy==1.6.0
 prison==0.2.1
-prometheus_client==0.21.0
+prometheus_client==0.22.0
 prompt-toolkit==3.0.41
 propcache==0.2.0
 protobuf==5.28.3
