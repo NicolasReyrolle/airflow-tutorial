@@ -217,7 +217,7 @@ pickleshare==0.7.5
 pillow==11.0.0
 pluggy==1.6.0
 prison==0.2.1
-prometheus_client==0.21.0
+prometheus_client==0.22.0
 prompt-toolkit==3.0.41
 propcache==0.2.0
 protobuf==5.28.3
@@ -300,7 +300,7 @@ textwrap3==0.9.2
 thrift==0.11.0
 time-machine==2.16.0
 tinycss2==1.4.0
-tornado==6.4.2
+tornado==6.5.1
 tqdm==4.67.1
 traitlets==5.13.0
 tweepy==3.7.0
