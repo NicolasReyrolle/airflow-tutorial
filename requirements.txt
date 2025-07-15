@@ -220,7 +220,7 @@ prison==0.2.1
 prometheus_client==0.22.0
 prompt-toolkit==3.0.41
 propcache==0.2.0
-protobuf==5.28.3
+protobuf==5.29.5
 psutil==6.1.0
 pure_eval==0.2.3
 pyasn1==0.6.1
