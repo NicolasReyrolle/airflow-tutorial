@@ -17,8 +17,8 @@ apache-airflow-providers-celery==3.8.4
 apache-airflow-providers-cncf-kubernetes==10.1.0
 apache-airflow-providers-common-compat==1.6.0
 apache-airflow-providers-common-io==1.5.3
+apache-airflow-providers-fab==2.1.0
 apache-airflow-providers-common-sql==1.26.0
-apache-airflow-providers-fab==1.5.2
 apache-airflow-providers-ftp==3.11.1
 apache-airflow-providers-http==5.0.0
 apache-airflow-providers-imap==3.7.0
@@ -85,7 +85,7 @@ fastapi==0.115.12
 fastapi-cli==0.0.5
 fastjsonschema==2.20.0
 flake8==7.1.1
-Flask==2.2.5
+Flask==3.1.0
 Flask-Admin==1.6.1
 Flask-AppBuilder==4.5.2
 Flask-Babel==1.0.0
