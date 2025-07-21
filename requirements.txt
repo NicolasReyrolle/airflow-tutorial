@@ -47,7 +47,7 @@ bleach==3.3.0
 blinker==1.9.0
 cachelib==0.13.0
 cachetools==5.5.2
-cadwyn==5.3.3
+cadwyn==5.4.3
 celery==5.4.0
 certifi==2024.7.4
 cffi==1.17.1
