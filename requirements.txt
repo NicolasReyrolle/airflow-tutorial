@@ -5,6 +5,7 @@ aiohttp==3.12.14
 aiologic==0.14.0
 aiomysql==0.3.0
 aiosignal==1.4.0
+aiosmtplib==5.0.0
 aiosqlite==0.20.0
 alembic==1.14.0
 amqp==5.3.1
