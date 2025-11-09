@@ -82,7 +82,7 @@ durationpy==0.9
 email_validator==2.2.0
 entrypoints==0.3
 executing==2.1.0
-fastapi==0.116.1
+fastapi==0.117.1
 fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.4
 fastjsonschema==2.20.0
