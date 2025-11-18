@@ -85,7 +85,7 @@ fastapi-cli==0.0.8
 fastapi-cloud-cli==0.1.4
 fastjsonschema==2.20.0
 flake8==7.1.1
-Flask==3.1.0
+Flask==2.2.5
 Flask-Admin==1.6.1
 Flask-AppBuilder==4.5.2
 Flask-Babel==1.0.0
