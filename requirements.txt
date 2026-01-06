@@ -18,7 +18,7 @@ apache-airflow-providers-cncf-kubernetes==10.1.0
 apache-airflow-providers-common-compat==1.10.1
 apache-airflow-providers-common-io==1.6.3
 apache-airflow-providers-common-sql==1.28.1
-apache-airflow-providers-fab==3.1.0
+apache-airflow-providers-fab==3.1.1
 apache-airflow-providers-ftp==3.11.1
 apache-airflow-providers-http==5.0.0
 apache-airflow-providers-imap==3.7.0
