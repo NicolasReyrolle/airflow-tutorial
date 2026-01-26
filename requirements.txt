@@ -250,7 +250,7 @@ python-dateutil==2.9.0
 python-dotenv==1.1.0
 python-editor==1.0.4
 python-json-logger==2.0.7
-python-multipart==0.0.20
+python-multipart==0.0.22
 python-nvd3==0.16.0
 python-slugify==8.0.4
 python3-openid==3.2.0
